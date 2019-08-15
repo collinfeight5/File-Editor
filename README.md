@@ -1,2 +1,2 @@
 # File-Editor
-Adds pre compiled header to cpp files
+Frameowrk for editing files in directory using python
